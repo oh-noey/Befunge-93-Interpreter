@@ -1,6 +1,6 @@
 ### A befunge interpreter written in r5rs scheme
 ```Scheme
-(befunge "(befunge "64+\"!dlroW ,olleH\">:#,_@")"
+(befunge "64+\"!dlroW ,olleH\">:#,_@")
 ```
 Prints `Hello, World!`
 
